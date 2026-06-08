@@ -72,7 +72,7 @@
     "tinybench": "^6.0.0",
     "typeorm": "^0.3.28",
     "typescript": "~5.8.3",
-    "vitest": "^3.2.4",
+    "vitest": "^3.2.6",
     "yaml": "^2.8.1"
   },
   "peerDependencies": {

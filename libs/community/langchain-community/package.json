@@ -190,7 +190,7 @@
     "replicate": "^1.4.0",
     "sonix-speech-recognition": "^2.1.1",
     "srt-parser-2": "^1.2.3",
-    "vitest": "^3.2.4",
+    "vitest": "^3.2.6",
     "typeorm": "^0.3.28",
     "typescript": "~5.8.3",
     "typesense": "^3.0.1",
