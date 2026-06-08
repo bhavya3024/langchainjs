@@ -13,7 +13,7 @@
     "cheerio": "^1.1.2",
     "langchain": "workspace:*",
     "wrangler": "^3.19.0",
-    "vitest": "0.34.3",
+    "vitest": "3.2.6",
     "typeorm": "^0.3.25",
     "reflect-metadata": "^0.1.13",
     "typescript": "^5.0.3"
